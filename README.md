@@ -87,9 +87,9 @@ https://github.com/taha5847/Real-Estate-Market/blob/main/overviewpage.png?raw=tr
 
 ### 2. Price & Property Analysis
 
-![Housing Market Dashboard - Price Analysis](screenshots/housing-price-analysis.png)
+https://github.com/taha5847/Real-Estate-Market/blob/6ed2fba6f11694fcd7c8007584adfc0e499f9052/salespage.png
 
-### 4. Market Trends
+### 3. Market Trends
 
 ![Housing Market Dashboard - Market Trends](screenshots/housing-market-trends.png)
 
