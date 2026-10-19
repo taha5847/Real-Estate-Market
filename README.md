@@ -91,7 +91,7 @@ https://github.com/taha5847/Real-Estate-Market/blob/6ed2fba6f11694fcd7c8007584ad
 
 ### 3. Market Trends
 
-![Housing Market Dashboard - Market Trends](screenshots/housing-market-trends.png)
+https://github.com/taha5847/Real-Estate-Market/blob/c13a1209b9c0222b077d0ee5429bb8549f54abbe/housetype.png
 
 > **Note:** Add your Power BI dashboard screenshots to the `screenshots` folder using the filenames shown above.
 
@@ -120,15 +120,6 @@ Analyze purchase prices across:
 - Regions
 - Quarters
 - Property sizes
-
-### Geographic Analysis
-
-Compare housing prices by:
-
-- City
-- Area
-- Region
-- ZIP code
 
 ### Property Analysis
 
