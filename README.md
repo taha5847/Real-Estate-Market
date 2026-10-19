@@ -14,7 +14,7 @@ An interactive Power BI report analysing **100,000 Danish residential property s
 ## Dashboard Pages
 
 ### 1. House Market Overview
-House Market Overview: overviewpage.png
+ https://github.com/taha5847/Real-Estate-Market/blob/62d56b1fa5b300a2ab22a33a2c07946689c3b5ce/overviewpage.png
 
 High-level market health at a glance.
 - **KPI cards:** Last 12-Month Sales, Units Sold in the latest year & quarter
